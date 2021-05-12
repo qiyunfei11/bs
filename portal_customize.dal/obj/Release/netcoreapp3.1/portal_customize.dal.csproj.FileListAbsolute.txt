@@ -1,0 +1,12 @@
+D:\project\hr\hr\portal_customize.dal\bin\Release\netcoreapp3.1\portal_customize.dal.deps.json
+D:\project\hr\hr\portal_customize.dal\bin\Release\netcoreapp3.1\portal_customize.dal.runtimeconfig.json
+D:\project\hr\hr\portal_customize.dal\bin\Release\netcoreapp3.1\portal_customize.dal.runtimeconfig.dev.json
+D:\project\hr\hr\portal_customize.dal\bin\Release\netcoreapp3.1\portal_customize.dal.dll
+D:\project\hr\hr\portal_customize.dal\bin\Release\netcoreapp3.1\portal_customize.dal.pdb
+D:\project\hr\hr\portal_customize.dal\obj\Release\netcoreapp3.1\portal_customize.dal.csprojAssemblyReference.cache
+D:\project\hr\hr\portal_customize.dal\obj\Release\netcoreapp3.1\portal_customize.dal.AssemblyInfoInputs.cache
+D:\project\hr\hr\portal_customize.dal\obj\Release\netcoreapp3.1\portal_customize.dal.AssemblyInfo.cs
+D:\project\hr\hr\portal_customize.dal\obj\Release\netcoreapp3.1\portal_customize.dal.csproj.CoreCompileInputs.cache
+D:\project\hr\hr\portal_customize.dal\obj\Release\netcoreapp3.1\portal_customize.dal.dll
+D:\project\hr\hr\portal_customize.dal\obj\Release\netcoreapp3.1\portal_customize.dal.pdb
+D:\project\hr\hr\portal_customize.dal\obj\Release\netcoreapp3.1\portal_customize.dal.genruntimeconfig.cache

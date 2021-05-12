@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>portal_customize.web</name>
+    </assembly>
+    <members>
+        <member name="M:portal_customize.web.Controllers.MessageController.GetMessage">
+            <summary>
+            获取信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:portal_customize.web.Controllers.MessageController.Save(portal_customize.dal.Model.T_Message)">
+            <summary>
+            添加信息
+            </summary>
+        </member>
+        <member name="M:portal_customize.web.Controllers.ThemeController.GetCurrent">
+            <summary>
+            获取当前用户主题
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:portal_customize.web.Controllers.ThemeController.GetAllTheme">
+            <summary>
+            获取所有主题
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

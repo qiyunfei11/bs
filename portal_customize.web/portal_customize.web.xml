@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>portal_customize.web</name>
+    </assembly>
+    <members>
+        <member name="M:portal_customize.web.Controllers.BadgeController.GetAll(System.Int32,System.Int32,System.String,System.String,System.String)">
+            <summary>
+            获取所有
+            </summary>
+            <param name="page"></param>
+            <param name="pageSize"></param>
+            <param name="name"></param>
+            <param name="s"></param>
+            <param name="e"></param>
+            <returns></returns>
+        </member>
+        <member name="M:portal_customize.web.Controllers.GreetingController.GetAll(System.Int32,System.Int32,System.String,System.String,System.String)">
+            <summary>
+            获取所有
+            </summary>
+            <param name="page"></param>
+            <param name="pageSize"></param>
+            <param name="name"></param>
+            <param name="s"></param>
+            <param name="e"></param>
+            <returns></returns>
+        </member>
+        <member name="M:portal_customize.web.Controllers.MessageController.GetMessage">
+            <summary>
+            获取信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:portal_customize.web.Controllers.MessageController.SetStatus(System.Int32)">
+            <summary>
+            修改状态
+            </summary>
+            <param name="Id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:portal_customize.web.Controllers.MessageController.Save(portal_customize.dal.Model.T_Message)">
+            <summary>
+            添加信息
+            </summary>
+        </member>
+        <member name="M:portal_customize.web.Controllers.ThemeController.GetCurrent">
+            <summary>
+            获取当前用户主题
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:portal_customize.web.Controllers.ThemeController.GetAllTheme(System.Int32,System.Int32,System.String,System.String,System.String)">
+            <summary>
+            获取所有主题
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

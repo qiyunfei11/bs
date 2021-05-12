@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\project\hr\hr\portal_customize.web\bin\Release\netcoreapp3.1\publish\</_PublishTargetUrl>
+    <History>True|2021-05-06T09:23:23.9115210Z;True|2021-05-06T17:07:29.1588861+08:00;True|2021-05-06T17:06:49.6476459+08:00;True|2021-05-06T17:05:51.6719430+08:00;True|2021-05-06T16:58:08.0468262+08:00;True|2021-05-06T16:49:34.1774992+08:00;True|2021-05-06T16:36:38.9300386+08:00;</History>
+  </PropertyGroup>
+</Project>

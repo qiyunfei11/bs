@@ -1,0 +1,12 @@
+D:\project\hr\hr\hr.web\bin\Debug\netcoreapp3.1\hr.dal.deps.json
+D:\project\hr\hr\hr.web\bin\Debug\netcoreapp3.1\hr.dal.dll
+D:\project\hr\hr\hr.web\bin\Debug\netcoreapp3.1\hr.dal.pdb
+D:\project\hr\hr\hr.web\obj\Debug\netcoreapp3.1\hr.dal.csprojAssemblyReference.cache
+D:\project\hr\hr\hr.web\obj\Debug\netcoreapp3.1\hr.dal.AssemblyInfoInputs.cache
+D:\project\hr\hr\hr.web\obj\Debug\netcoreapp3.1\hr.dal.AssemblyInfo.cs
+D:\project\hr\hr\hr.web\obj\Debug\netcoreapp3.1\hr.dal.csproj.CoreCompileInputs.cache
+D:\project\hr\hr\hr.web\obj\Debug\netcoreapp3.1\hr.dal.dll
+D:\project\hr\hr\hr.web\obj\Debug\netcoreapp3.1\hr.dal.pdb
+D:\project\hr\hr\hr.web\bin\Debug\netcoreapp3.1\hr.dal.runtimeconfig.json
+D:\project\hr\hr\hr.web\bin\Debug\netcoreapp3.1\hr.dal.runtimeconfig.dev.json
+D:\project\hr\hr\hr.web\obj\Debug\netcoreapp3.1\hr.dal.genruntimeconfig.cache
